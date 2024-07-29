@@ -1,5 +1,5 @@
 let colors_hojas = ["#4F6F52", "#739072"];
-let colors_petalos = [ "#b34646", "#E7EAB5", "#DEBACE", "#A2CDCD", "BC9F8B" ];
+let colors_petalos = [ "#b34646", "#E7EAB5", "#DEBACE", "#A2CDCD" ];
 
 let s = 120;
 let grosorMarco = 45;
@@ -33,7 +33,7 @@ function setup() {
     text('Vanessa Figueiraz', width/2, s/2 + 4);
     textSize(10);
     text('Con todo el amor del que mucho te quiere y', width/2, height - (s/2 + 3));
-    text('del que espera quererte más..', width/2, height - (s/2 - 12));
+    text('del que espera quererte más.', width/2, height - (s/2 - 12));
 
     noStroke();
     fill("#FFDBC3");
