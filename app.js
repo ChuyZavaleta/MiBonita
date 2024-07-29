@@ -33,7 +33,7 @@ function setup() {
     text('Vanessa Figueiraz', width/2, s/2 + 4);
     textSize(10);
     text('Con todo el amor del que mucho te quiere y', width/2, height - (s/2 + 3));
-    text('del que espera quererte más.', width/2, height - (s/2 - 12));
+    text('del que espera quererte más..', width/2, height - (s/2 - 12));
 
     noStroke();
     fill("#FFDBC3");
