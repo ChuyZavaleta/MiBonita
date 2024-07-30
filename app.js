@@ -1,5 +1,5 @@
 let colors_hojas = ["#4F6F52", "#739072"];
-let colors_petalos = [ "#b34646", "#E7EAB5", "#DEBACE", "#A2CDCD" ];
+let colors_petalos = [ "#b34646", "#FF7D29", "#DEBACE", "#A2CDCD" ];
 
 let s = 120;
 let grosorMarco = 45;
