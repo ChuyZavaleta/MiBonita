@@ -30,10 +30,10 @@ function setup() {
     textAlign(CENTER);
     textFont("Playwrite AR");
     textSize(15);
-    text('Vanessa Figueiraz', width/2, s/2 + 4);
+    text('Para mi amor: Belen Ayala', width/2, s/2 + 4);
     textSize(10);
     text('Con todo el amor del que mucho te quiere y', width/2, height - (s/2 + 3));
-    text('del que espera quererte más.', width/2, height - (s/2 - 12));
+    text('del que espera quererte más. Mi bonita <3', width/2, height - (s/2 - 12));
 
     noStroke();
     fill("#FFDBC3");
@@ -107,3 +107,4 @@ function drawComponent() {
     curveVertex(0, 0);
     endShape();
 }
+
